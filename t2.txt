@@ -5,7 +5,7 @@ new change
 
 line2
 new change2
-
+ng-new line
 
 new change2
 
