@@ -2,10 +2,10 @@
 line1
 
 new change
-<<<<<<< HEAD
+
 line2
 new change2
 
-=======
+
 new change2
->>>>>>> main
+
